@@ -1,0 +1,17 @@
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.exe
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.deps.json
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.json
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.dev.json
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.dll
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.pdb
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csproj.AssemblyReference.cache
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfoInputs.cache
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfo.cs
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.dll
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.pdb
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.genruntimeconfig.cache
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.Implementations.dll
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.Implementations.pdb
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csproj.CopyComplete

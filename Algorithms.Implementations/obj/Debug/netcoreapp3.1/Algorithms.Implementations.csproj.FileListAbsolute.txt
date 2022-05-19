@@ -1,0 +1,10 @@
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms.Implementations\bin\Debug\netcoreapp3.1\Algorithms.Implementations.deps.json
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms.Implementations\bin\Debug\netcoreapp3.1\Algorithms.Implementations.dll
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms.Implementations\bin\Debug\netcoreapp3.1\Algorithms.Implementations.pdb
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms.Implementations\obj\Debug\netcoreapp3.1\Algorithms.Implementations.csproj.AssemblyReference.cache
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms.Implementations\obj\Debug\netcoreapp3.1\Algorithms.Implementations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms.Implementations\obj\Debug\netcoreapp3.1\Algorithms.Implementations.AssemblyInfoInputs.cache
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms.Implementations\obj\Debug\netcoreapp3.1\Algorithms.Implementations.AssemblyInfo.cs
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms.Implementations\obj\Debug\netcoreapp3.1\Algorithms.Implementations.csproj.CoreCompileInputs.cache
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms.Implementations\obj\Debug\netcoreapp3.1\Algorithms.Implementations.dll
+C:\Users\Joshua.Ajibade\source\repos\Algorithms\Algorithms.Implementations\obj\Debug\netcoreapp3.1\Algorithms.Implementations.pdb

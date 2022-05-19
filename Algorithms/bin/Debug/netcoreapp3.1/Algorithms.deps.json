@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Algorithms/1.0.0": {
+        "dependencies": {
+          "Algorithms.Implementations": "1.0.0"
+        },
+        "runtime": {
+          "Algorithms.dll": {}
+        }
+      },
+      "Algorithms.Implementations/1.0.0": {
+        "runtime": {
+          "Algorithms.Implementations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Algorithms.Implementations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
