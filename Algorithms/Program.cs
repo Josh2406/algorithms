@@ -1,8 +1,10 @@
 ﻿using Algorithms.Implementations;
+using Algorithms.Implementations.Easy;
+using Algorithms.Implementations.Generic;
 using Algorithms.Implementations.SN1;
 using System;
-using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Algorithms
 {
@@ -10,8 +12,15 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var rLastName = "Ajibade".Reversed();
+           
+
+            Console.WriteLine("----String Manipulation----");
+            var rLastName = "Ajibade Joshua Babawale".EachWordInAStatementReversed();
             Console.WriteLine(rLastName);
+            Console.WriteLine();
+
+            var arr = new int[] { 1, 3, 2, 1, 4, 5, 5, 9, 10, 10, 12, 9, 11 };
+            var nonDupArr = arr.RemoveDuplicatesWithoutLinq();
 
             var algo = new Algorithm();
 
@@ -25,6 +34,10 @@ namespace Algorithms
 
             Console.WriteLine("----Prime Generator----");
             PrimeNumberGeneratorTest();
+            Console.WriteLine();
+
+            Console.WriteLine("----PSquare Generator----");
+            PerfectSquareTest();
             Console.WriteLine();
 
             var arr1 = new List<int> { 5, 1, 22, 25, 6, -1, 8, 10 };
@@ -62,6 +75,16 @@ namespace Algorithms
             {
                 Console.WriteLine($"\nError: {ex.Message}\n");
             }
+        }
+
+        static void PerfectSquareTest()
+        {
+            var gen = new PerfectSquares(5000, 10000);
+            foreach (var psq in gen)
+            {
+                Console.Write(psq + ", ");
+            }
+            Console.WriteLine();
         }
 
         static void PrimeNumberGeneratorTest()

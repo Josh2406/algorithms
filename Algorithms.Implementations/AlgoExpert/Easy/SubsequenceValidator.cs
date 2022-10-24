@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Algorithms.Implementations
+namespace Algorithms.Implementations.Easy
 {
     public static class SubsequenceValidator
     {

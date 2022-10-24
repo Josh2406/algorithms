@@ -1,4 +1,4 @@
-﻿Validate Subsequence
+﻿Validate Subsequence - D
 Two Number Sum
 Sorted Squared Array
 Tournament Winner
@@ -23,3 +23,5 @@ Caesar Cypher Encryptor
 Run-Length Encoding
 Generate Document
 First Non-Repeating Character
+
+--LeetCode--

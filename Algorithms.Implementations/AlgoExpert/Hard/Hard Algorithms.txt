@@ -26,3 +26,22 @@ Laptop Rentals
 Find Loop
 Reverse Linked List
 Merge Linked Lists
+Lowest Common Manager
+Interweaving Strings
+Solve Sudoku
+Generate Div Tags
+Ambiguous Measurement
+Shifted Binary Search
+Search for Range
+Quickselect
+Index Equals Value
+Quick Sort
+Heap Sort
+Radix Sort
+Shorten Path
+Underscorify Substring
+Pattern Matcher
+Multistring Search
+
+
+--LeetCode--

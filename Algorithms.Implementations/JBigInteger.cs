@@ -164,6 +164,16 @@ namespace Algorithms.Implementations
             return !GreaterThan(A, B) || Equals(A, B);
         }
 
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
         private static bool Equals(JBigInteger Left, JBigInteger Right)
         {
             bool result = true;
