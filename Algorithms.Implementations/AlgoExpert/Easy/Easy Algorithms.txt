@@ -1,6 +1,6 @@
 ﻿Validate Subsequence - D
-Two Number Sum
-Sorted Squared Array
+Two Number Sum - D
+Sorted Squared Array - D
 Tournament Winner
 Non-Constructible Change
 Find Closest Value in BST

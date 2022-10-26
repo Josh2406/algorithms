@@ -22,7 +22,13 @@ namespace Algorithms.Implementations.AlgoExpert.Easy
         public static int[] SortedSquares(this Algorithm _, int[] nums)
         {
             var length = nums.Length;
-            var result = Enumerable.Repeat(0, length).ToArray();
+            
+            var result = new int[length];
+            for (int i = 0; i < length; i++)
+            {
+                result[i] = 0;
+            }
+
             int smallestElementIdx = 0;
             int largestElementIdx = length - 1;
 
